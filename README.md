@@ -11,7 +11,7 @@ A cryptography-based secure login system built for BIT4138: Advanced Cryptograph
 - Flask-Bcrypt
 
 ## Weekly Progress
-- Week 1: Environment Setup ✅
+- Week 1: Environment Setup 
 - Week 2: Classical Cryptography 
 - Week 3: Stream Ciphers
 - Week 4: AES Block Cipher
